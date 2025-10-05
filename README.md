@@ -100,7 +100,7 @@ The frontend development server will be available at `http://localhost:5173`
 
 ## 🌟 Usage
 
-1. Open the application in your browser
+1. Open the application in your browser.
 2. Enter a Room ID (or generate one) and your username
 3. Share the Room ID with others to collaborate
 4. Start coding together in real-time
