@@ -118,7 +118,7 @@ The frontend development server will be available at `http://localhost:5173`
 
 CodeSync is designed to work across all device sizes:
 - Desktop: Full-featured experience
-- Tablet: Optimized sidebar and editor layout
+- Tablet: Optimized sidebar and editor layout.
 - Mobile: Adaptive interface with collapsible panels
 
 ## � Deployment on Render
