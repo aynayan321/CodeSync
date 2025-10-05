@@ -10,7 +10,7 @@ CodeSync is a powerful, real-time collaborative code editor that allows multiple
 - **Multiple Language Support**: Write and execute code in JavaScript, Python, Java, and C++.
 - **Live Code Execution**: Run your code directly in the browser and see the output instantly.
 - **User Presence**: See who's currently in your room and when they're typing.
-- **Room-based Collaboration**: Create or join rooms with unique IDs for private collaboration
+- **Room-based Collaboration**: Create or join rooms with unique IDs for private collaboration.
 - **Responsive Design**: Works seamlessly across desktop and mobile devices
 - **Custom Input Support**: Provide custom input for your code execution
 - **Modern Code Editor**: Powered by Monaco Editor with syntax highlighting and autocomplete
