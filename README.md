@@ -171,4 +171,4 @@ This project is licensed under the ISC License. See the `package.json` file for 
 
 ---
 
-Built with ❤️ by [Mateen](https://github.com/heyymateen)
+Built with ❤️ by [Ayan](https://github.com/aynayan321)
