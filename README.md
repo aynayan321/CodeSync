@@ -13,7 +13,7 @@ CodeSync is a powerful, real-time collaborative code editor that allows multiple
 - **Room-based Collaboration**: Create or join rooms with unique IDs for private collaboration.
 - **Responsive Design**: Works seamlessly across desktop and mobile devices.
 - **Custom Input Support**: Provide custom input for your code execution.
-- **Modern Code Editor**: Powered by Monaco Editor with syntax highlighting and autocomplete
+- **Modern Code Editor**: Powered by Monaco Editor with syntax highlighting and autocomplete.
 
 ## 🚀 Tech Stack
 
