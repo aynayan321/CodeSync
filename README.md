@@ -153,7 +153,7 @@ You can deploy this project on Render.com by following these steps:
 
 4. Deploy:
    - Click "Create Web Service"
-   - Wait for the build and deployment to complete
+   - Wait for the build and deployment to complete.
 
 Your application will be available at `https://your-app-name.onrender.com`
 
