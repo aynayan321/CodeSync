@@ -34,7 +34,7 @@ CodeSync is a powerful, real-time collaborative code editor that allows multiple
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/heyymateen/CodeSync.git
+   git clone https://github.com/ayanayan321/CodeSync.git
    cd CodeSync
    ```
 
